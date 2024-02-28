@@ -4,7 +4,7 @@ let liltitle;
 
 
 function preload(){
-    crystalball1 = loadImage('crystalBall_IMG.png'); 
+    crystalball1 = loadImage('CrystalBall_IMG.png'); 
 }
 
 function setup(){
